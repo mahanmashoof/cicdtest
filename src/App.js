@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      CI/CD Github Actions
+      CI/CD Github Actions (staging)
     </div>
   );
 }
